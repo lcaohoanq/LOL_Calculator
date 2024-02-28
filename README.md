@@ -444,7 +444,7 @@ btnClear.setOnClickListener { clearInput() }
 
 Congratulations! You've created a simple calculator app in Android using Kotlin. This tutorial covers the basics of building a calculator user interface and implementing arithmetic operations. You can further enhance your app by adding features like decimal points, handling edge cases, and improving the user interface.
 
-For the full tutorial, visit the [tutorial website](https://www.sjbtechcenter.online/projects/build-a-simple-calculator-app-with-complex-ui-in-android-studio-using-kotlin).
+For the full tutorial, visit the [tutorial website](https://www.soubhagyajit.com/projects/build-a-simple-calculator-app-with-complex-ui-in-android-studio-using-kotlin).
 
 If you have any questions or encounter any problems, feel free to [contact the author](mailto:soubhagyajitborah@gmail.com).
 
